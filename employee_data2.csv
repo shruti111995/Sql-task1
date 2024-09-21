@@ -1,0 +1,51 @@
+"emp_id","full_name","job_title","department","gender","age"
+1,"Emily Davis","Sr. Manger","IT","Female",55
+2,"Luna Sanders","Director","Finance","Female",50
+3,"Penelope Jordan","Computer Systems Manager","IT","Female",26
+4,"Austin Vo","Sr. Analyst","Finance","Male",55
+5,"Ruby Barnes","Manager","IT","Female",27
+6,"Luke Martin","Analyst","Finance","Male",25
+7,"Easton Bailey","Manager","Accounting","Male",29
+8,"Madeline Walker","Sr. Analyst","Finance","Female",34
+9,"Savannah Ali","Sr. Manger","Human Resources","Female",36
+10,"Camila Rogers","Controls Engineer","Engineering","Female",27
+11,"Eli Jones","Manager","Human Resources","Male",59
+12,"Robert Yang","Sr. Analyst","Accounting","Male",31
+13,"Isabella Xi","Vice President","Marketing","Female",41
+14,"Bella Powell","Director","Finance","Female",65
+15,"Camila Silva","Sr. Manger","Marketing","Female",64
+16,"David Barnes","Director","IT","Male",64
+17,"Eva Rivera","Director","Sales","Female",36
+18,"Leonardo Dixon","Analyst","Sales","Male",37
+19,"Jose Henderson","Director","Human Resources","Male",41
+20,"Wyatt Chin","Vice President","Engineering","Male",43
+21,"Ezekiel Kumar","IT Coordinator","IT","Male",28
+22,"Angel Powell","Analyst II","Sales","Male",61
+23,"Caroline Jenkins","Analyst","Finance","Female",27
+24,"Nora Brown","Enterprise Architect","IT","Female",32
+25,"Jackson Perry","Vice President","Marketing","Male",27
+26,"Riley Padilla","Technical Architect","IT","Female",35
+27,"Kennedy Foster","Manager","Marketing","Female",53
+28,"John Moore","Vice President","IT","Male",52
+29,"Sadie Washington","Sr. Manger","Marketing","Female",29
+30,"Gabriel Holmes","Enterprise Architect","IT","Male",40
+31,"Wyatt Rojas","Computer Systems Manager","IT","Male",32
+32,"Eva Coleman","Director","IT","Female",37
+33,"Dominic Clark","Quality Engineer","Engineering","Male",52
+34,"Lucy Alexander","Director","Engineering","Female",45
+35,"Everleigh Washington","HRIS Analyst","Human Resources","Female",64
+36,"Leilani Butler","Analyst II","Marketing","Female",27
+37,"John Contreras","Analyst II","Marketing","Male",35
+38,"Rylee Yu","Director","Accounting","Female",36
+39,"Piper Lewis","Field Engineer","Engineering","Female",33
+40,"Stella Alexander","Automation Engineer","Engineering","Female",52
+41,"Addison Do","Operations Engineer","Engineering","Female",46
+42,"Zoey Jackson","Business Partner","Human Resources","Female",46
+43,"Skylar Carrillo","Engineering Manager","Engineering","Female",44
+44,"Christian Sanders","Vice President","Human Resources","Male",45
+45,"Penelope Coleman","Analyst","Finance","Female",36
+46,"Piper Richardson","Sr. Analyst","Sales","Female",38
+47,"Everly Walker","HRIS Analyst","Human Resources","Female",41
+48,"Aurora Ali","Manager","Marketing","Female",30
+49,"gorge wash","HRIS Analyst","Human Resources","Male",43
+50,"mickel smart","Analyst","Human Resources","Male",32
